@@ -1,14 +1,13 @@
-# Template for setting up reproducible projects
+# README
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
+*This is a template for setting up a repository for a working group*
 
 ## About this Repository
 
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
+This repository is a template for *The Turing Way* working groups to organise their work.
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
 When reusing this repository, please update the information on your README page with information about your project.
